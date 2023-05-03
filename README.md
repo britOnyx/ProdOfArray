@@ -1,4 +1,5 @@
 # ProdOfArray
+Created in e-clipse IDE
 Product of Array Except Self
  You are given an array of integers. Return an array of the same size where the element at each index is the product of all the elements in the original array except for the element at that index.
 
